@@ -10,22 +10,22 @@ The repository is structured into folder-based modules for each course. Below is
 ├── 🧠 Deep Learning/
 │   ├── Slides/                       # Lecture Slides (Encrypted)
 │   ├── Homeworks/                    # Assignments (Python Code + LaTeX Reports)
-│   └── Finals/                       # Past Exams
+│   └── Finals/                       # Past Exams (Encrypted)
 │
 ├── ⚛️ Advanced Quantum Mechanics/
 │   ├── Slides/                       # Lecture Slides (Encrypted)
 │   ├── Homeworks/                    # Problem Set Solutions
-│   └── Finals/                       # Past Exams & Reviews
+│   └── Finals/                       # Past Exams & Reviews (Encrypted)
 │
 ├── 📐 Group Theory/
 │   ├── Slides/                       # Lecture Materials (Encrypted)
 │   ├── Homeworks/                    # Exercises
-│   └── Finals/                       # Exam Resources
+│   └── Finals/                       # Exam Resources (Encrypted)
 │
 ├── 🔬 Introduction of Particle Physics/
 │   ├── Slides/                       # Lecture Materials (Encrypted)
 │   ├── Homeworks/                    # Problem Set Solutions
-│   └── Finals/                       # Past Exams
+│   └── Finals/                       # Past Exams (Encrypted)
 │
 ├── 📏 Precision Measurement Physics/
 │   ├── Slides/                       # Lecture Slides (Encrypted)
@@ -38,7 +38,7 @@ The repository is structured into folder-based modules for each course. Below is
 │   └── Paper/                        # Course Papers (Encrypted)
 │
 ├── ❤️ Psychological Health Education of Postgraduate/
-│   └── Finals/                       # Exam Resources
+│   └── Finals/                       # Exam Resources (Encrypted)
 │
 ├── 🚩 Theory and Practice of Socialism with Chinese Characteristics in the New Era/
 │   └── Paper/                        # Course Papers (Encrypted)
