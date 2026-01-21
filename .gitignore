@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# VS Code
+.vscode/
+
+# Large Data files (Optional - uncomment if you want to ignore large datasets)
+# *.pth
+# *.pt
+# *.zip
+# *.tar.gz
+# MNIST/
+# cifar10/
+# flickr8k/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large files (>100MB) are now handled by Git LFS
+
+# Secrets
+密码.txt
+密码.md
+
