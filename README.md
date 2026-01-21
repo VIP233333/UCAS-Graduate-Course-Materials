@@ -8,18 +8,18 @@ The repository is structured into folder-based modules for each course. Below is
 
 ```text
 ├── 🧠 Deep Learning/
-│   ├── Slides/                       # Lecture Slides (Encrypted)
+│   ├── Slides/                       # Lecture Materials (Encrypted)
 │   ├── Homeworks/                    # Assignments (Python Code + LaTeX Reports)
 │   └── Finals/                       # Past Exams (Encrypted)
 │
 ├── ⚛️ Advanced Quantum Mechanics/
-│   ├── Slides/                       # Lecture Slides (Encrypted)
+│   ├── Slides/                       # Lecture Materials (Encrypted)
 │   ├── Homeworks/                    # Problem Set Solutions
 │   └── Finals/                       # Past Exams & Reviews (Encrypted)
 │
 ├── 📐 Group Theory/
 │   ├── Slides/                       # Lecture Materials (Encrypted)
-│   ├── Homeworks/                    # Exercises
+│   ├── Homeworks/                    # Problem Set Solutions
 │   └── Finals/                       # Exam Resources (Encrypted)
 │
 ├── 🔬 Introduction of Particle Physics/
@@ -28,11 +28,11 @@ The repository is structured into folder-based modules for each course. Below is
 │   └── Finals/                       # Past Exams (Encrypted)
 │
 ├── 📏 Precision Measurement Physics/
-│   ├── Slides/                       # Lecture Slides (Encrypted)
+│   ├── Slides/                       # Lecture Materials (Encrypted)
 │   └── Paper/                        # Course Papers (Encrypted)
 │
 ├── 📝 Natural Language Processing/
-│   └── Slides/                       # Lecture Slides (Encrypted)
+│   └── Slides/                       # Lecture Materials (Encrypted)
 │
 ├── 💭 Introduction to Dialectics of Nature/
 │   └── Paper/                        # Course Papers (Encrypted)
@@ -62,13 +62,13 @@ The repository is structured into folder-based modules for each course. Below is
 
 ### 3. 📄 Term Papers & Reports
 - 🔐 **Status**: **Encrypted**.
-- 📑 **Content**: Assignments for courses such as *Precision Measurement Physics*, *Dialectics of Nature*, and *Socialism with Chinese Characteristics*.
+- 📑 **Content**: Assignments for courses such as *Precision Measurement Physics*, *Introduction to Dialectics of Nature*, and *Theory and Practice of Socialism with Chinese Characteristics in the New Era*.
 - 🚫 **Policy**: Files are encrypted to prevent academic misconduct and unauthorized distribution.
 - ⚠️ **Disclaimer**: These documents represent original work and are provided for conceptual reference only.
 
 ### 4. 💻 Coding Projects & Experiments
 - 🔭 **Scope**: Computational courses including *Deep Learning*, *Reinforcement Learning* (Upcoming), *Graph Neural Networks and Applications* (Upcoming), etc.
-- 📦 **Content**: Python implementation scripts, PyTorch models (e.g., CNN, ViT, RNN, LSTM, Transformers), and LaTeX experimental reports.
+- 📦 **Content**: Python implementation scripts, PyTorch models (e.g., CNNs, ViT, RNNs, LSTM, Transformers), and LaTeX experimental reports.
 - 💾 **Data**: Contains dataset scripts or placeholders (e.g., `MNIST`, `cifar10`).
 
 ---
